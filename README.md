@@ -16,6 +16,8 @@ I enjoy creating clean, responsive user interfaces and continuously improving my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 </p>
 
 ### 🧠 Back-End
@@ -23,6 +25,7 @@ I enjoy creating clean, responsive user interfaces and continuously improving my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
 </p>
+
 
 ### 🛠 Tools & Workflow
 <p align="left">
@@ -61,6 +64,7 @@ Each project reflects my learning progress and practical application of core dev
 ## 🤝 Open To Opportunities
 
 I’m currently open to:
+- **Free Lance Work**
 - **Junior Software Developer roles**
-- **Front-End Developer roles**
-- **Trainee**
+- **Front-End & Full-Stack Developer roles**
+
