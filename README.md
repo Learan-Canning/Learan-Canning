@@ -16,8 +16,8 @@ I enjoy creating clean, responsive user interfaces and continuously improving my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/react.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg" width="40" />
 </p>
 
 ### 🧠 Back-End
